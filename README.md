@@ -19,7 +19,7 @@ Otvoriti terminal unutar direktorijuma i izvršiti komandu:
 
 3.Preći u task direktorijum:
 
-**cd HomeTask/task**
+**cd .\HomeTask\task**
 
 4.Instalirati potrebne zavisnosti:
 
