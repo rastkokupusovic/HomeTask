@@ -11,11 +11,11 @@ Postman za testiranje
 Upustvo za pokretanje projekta:
 
 
-1.Kreirati direktorijum na računaru:
+1.Kreirati direktorijum na računaru
 
-2.Klonirati projekat unutar tog direktorijuma:
-Pristupi se terminalu unutar direktorijuma i izvrsi se komanda:
-git clone https://github.com/rastkokupusovic/HomeTask.git
+2. Klonirati projekat unutar tog direktorijuma:  
+Otvoriti terminal unutar direktorijuma i izvršiti komandu:  
+`git clone https://github.com/rastkokupusovic/HomeTask.git`
 
 3.Preći u task direktorijum:
 
