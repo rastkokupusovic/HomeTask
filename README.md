@@ -1,14 +1,14 @@
 # HomeTask
 
-# Korišćene tehnologije:
+# Korišćene tehnologije
 
-Node.js
-GraphQL
-Apollo Server
-Postman za testiranje
+-Node.js
+-GraphQL
+-Apollo Server
+-Postman za testiranje
 
 
-# Upustvo za pokretanje projekta:
+# Upustvo za pokretanje projekta
 
 
 1.Kreirati direktorijum na računaru
@@ -19,15 +19,15 @@ Otvoriti terminal unutar direktorijuma i izvršiti komandu:
 
 3.Preći u task direktorijum:
 
-# cd HomeTask/task
+**cd HomeTask/task**
 
 4.Instalirati potrebne zavisnosti:
 
-# npm install
+**npm install**
 
 5.Nakon uspešne instalacije, pokrenuti aplikaciju:
 
-# npm start
+**npm start**
 
 6.
 [Video klip demonstracije](https://vimeo.com/1241238349/1a7ffe8d27)
