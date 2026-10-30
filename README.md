@@ -2,10 +2,10 @@
 
 # Korišćene tehnologije
 
--Node.js
--GraphQL
--Apollo Server
--Postman za testiranje
+- Node.js
+- GraphQL
+- Apollo Server
+- Postman za testiranje
 
 
 # Upustvo za pokretanje projekta
